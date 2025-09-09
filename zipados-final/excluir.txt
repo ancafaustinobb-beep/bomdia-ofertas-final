@@ -1,0 +1,5 @@
+bomdia-ofertas-clean2.zip
+node_modules
+.next
+.vercel
+bomdia-ofertas-clean-final
